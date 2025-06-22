@@ -4,8 +4,6 @@ Description: A mini-game that helps high school students review middle school ma
 
 Developer: Namu Chon
 
-System Requirement: MacOS
-
 Game instruction:
 1. Move using WASD or arrow keys.
 2. Dodge the enemies.
